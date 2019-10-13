@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<components>
+
+    <user>
+
+        <name>RC component</name>
+
+        <trace> tracelevel : 1 </trace>
+
+    </user>
+
+    <user>
+
+        <name>RG component</name>
+
+        <trace> tracelevel : 3</trace>
+
+    </user>
+
+    <user>
+
+        <name>component LI</name>
+
+        <trace>tracelevel : 5</trace>
+
+    </user>
+
+</components>
